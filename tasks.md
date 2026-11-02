@@ -61,7 +61,7 @@ Estado consolidado em 02/11/2026. Evidências em [docs/VALIDACAO.md](docs/VALIDA
 - [x] Reingestão, troca de collection/modelo, persistência e erros documentados.
 - [x] Revisão dos arquivos publicáveis sem encontrar chaves ou arquivos locais.
 - [x] Repositório público confirmado no GitHub.
-- [ ] Fazer commit da entrega e push no fork.
+- [x] Fazer commit da entrega e push no fork (`5f78166`, branch `main`).
 
 ## Decisões e limites
 
